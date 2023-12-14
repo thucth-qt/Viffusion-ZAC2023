@@ -58,7 +58,7 @@ def generate_banners(df_info, output_dir, seed):
         img1 = post_processing.scale_rectangle(images_generated[0], h_scale_ratio=0.8, w_scale_ratio=1.0)
         img2 = post_processing.scale_rectangle(images_generated[1], h_scale_ratio=0.8, w_scale_ratio=1.0)
         post_processed_image = post_processing.concat_images(img1, img2, middle_space=10)
-        post_processed_image = post_processing.blend(post_processed_image, ratio=0.2)
+        post_processed_image = post_processing.blend(post_processed_image, ratio=0.8)
         post_processed_image = post_processing.padding(post_processed_image)    
         post_processed_image.save(generated_path)
         # ***************End model prediction******************
