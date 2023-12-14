@@ -1,0 +1,5 @@
+*
+!model_zoo
+!versions/v12.11.26
+!cyos.sources.list
+!cyos.trusted.gpg
