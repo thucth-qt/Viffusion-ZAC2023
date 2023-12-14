@@ -32,7 +32,7 @@ We are pleased to announce our **1st-place ranking** on the public leaderboard (
 3. Results
 
     After running the script, you can find the results in ```RESULT_PATH```
-    ![folder results](image.png)
+    ![folder results](assets/folder_results.png)
 
     Sample 91.jpg
     ![91.jpg](assets/91.jpg)
