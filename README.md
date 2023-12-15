@@ -46,3 +46,9 @@ To gain better speed in keywords extration, we quantized the model Qwen into 8bi
 
 After all, we placed models in folder `WEIGHT_PATH` as following structure
 ![Pretrained models](assets/weights.png)
+
+### Authors
+
+- [Trần Hữu Thức](https://github.com/thucth-qt)
+- [Trần Hậu Tuấn](https://github.com/thtuancs)
+- [Nguyễn Hữu Thắng](https://github.com/nhthang99)
