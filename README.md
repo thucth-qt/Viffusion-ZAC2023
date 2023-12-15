@@ -7,7 +7,7 @@ We are pleased to announce our **1st-place ranking** on the public leaderboard (
 
 ### The poster shown at Zalo AI summit 2023.
 
-![Poster](assets/Poster.svg)
+![Poster](assets/poster.svg)
 
 ### Docker deployment
 1. Docker build
